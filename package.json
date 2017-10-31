@@ -1,0 +1,16 @@
+{
+  "name": "ansi-to-rgb",
+  "version": "1.0.0",
+  "description": "Get the appropriate RGB colors for ANSI color codes",
+  "main": "index.js",
+  "author": "Mario Nebl <hello@mario-nebl.de>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marionebl/ansi-to-rgb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marionebl/ansi-to-rgb/issues"
+  },
+  "homepage": "https://github.com/marionebl/ansi-to-rgb#readme"
+}
